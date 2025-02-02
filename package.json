@@ -3,7 +3,7 @@
     "private": true,
     "type": "module",
     "dependencies": {
-      "@apollo/server": "^4.6.0",
-      "graphql": "^16.6.0"
+        "@apollo/server": "^4.11.3",
+        "graphql": "^16.10.0"
     }
-  }
+}
